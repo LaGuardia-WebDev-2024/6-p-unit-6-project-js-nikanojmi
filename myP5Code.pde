@@ -1,17 +1,21 @@
 //🟢Setup Procedure - Runs Once to Set The Canvas
 void setup() {
     size(400, 400); 
-    background(255,255,255,100);
+    background(255, 130, 103);
 }
 
 
 //🟢Draw Procedure - Runs on Repeat
 void draw(){
-  fill(255,255,255);
+  fill(163, 96, 81);
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
+ellipse(200,200,300,300);
+ellipse(177,115,15,15);
+ellipse(250,120,15,15);
+fill(0, 0, 0)
 
   
 
